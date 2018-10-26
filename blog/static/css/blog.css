@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 .page-header {
@@ -47,3 +48,13 @@ h1, h2, h3, h4 {
 .post h1 a, .post h1 a:visited {
     color: #000000;
 }
+=======
+{% load static %}
+h1 a {
+    color: black;
+}
+
+body {
+    padding-left: 15px;
+}
+>>>>>>> 27406100cd5486016f330c58db819e8cca79edf4
